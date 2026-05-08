@@ -32,9 +32,10 @@ interface Group {
 let groups: Group[] = [];
 
 function formatDate(date: Date) {
+	const year = date.getFullYear();
 	const month = (date.getMonth() + 1).toString().padStart(2, "0");
 	const day = date.getDate().toString().padStart(2, "0");
-	return `${month}-${day}`;
+	return `${year}-${month}-${day}`;
 }
 
 function formatTag(tagList: string[]) {
@@ -111,7 +112,7 @@ onMount(async () => {
                 >
                     <div class="flex flex-row justify-start items-center h-full">
                         <!-- date -->
-                        <div class="w-[15%] md:w-[10%] transition text-sm text-right text-50">
+                        <div class="w-[15%] md:w-[10%] transition text-sm text-right text-75">
                             {formatDate(post.data.published)}
                         </div>
 
