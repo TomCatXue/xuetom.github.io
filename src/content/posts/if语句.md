@@ -2,7 +2,7 @@
 title: "if语句"
 published: 2023-11-30
 description: "Python if 语句用于控制程序的条件分支执行。"
-image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
+image: ""
 tags: ["Python", "分支结构", "基础"]
 category: "Python"
 draft: false

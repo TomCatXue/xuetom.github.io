@@ -2,7 +2,7 @@
 title: "input函数"
 published: 2023-11-14
 description: "input() 函数用于接收用户输入，是实现人机交互的基础。"
-image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
+image: ""
 tags: ["Python", "输入", "基础"]
 category: "Python"
 draft: false
@@ -99,4 +99,3 @@ print(b,type(b))
 ## 类型转换
 
 ![微信图片_20231114105741.png](https://s2.loli.net/2023/11/14/oxZ1IkDKtLecyHg.png)
-

@@ -2,7 +2,7 @@
 title: "random随机数和时间"
 published: 2023-11-24
 description: "Python 中可以使用 random 模块生成随机数。"
-image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
+image: ""
 tags: ["Python", "随机数", "时间"]
 category: "Python"
 draft: false
@@ -186,6 +186,5 @@ print("----执行结束----")
 100%[**********->]
 ----执行结束----
 ```
-
 
 
