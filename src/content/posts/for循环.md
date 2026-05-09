@@ -1,11 +1,11 @@
 ---
-title: Python1.0-10-for循环
-date: 2023-12-8 14:55:30
-tags: "for循环"
-categories: "Python"
-photos: "https://pic.huke88.com/video/cover/2020-04-07/436530F6-6CB9-AF38-6CAB-B00E50D58F3A.jpg!/fwfh/1840x1124/quality/80/unsharp/true/format/jpg"
-cover: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
-excerpt: "Python for循环可以遍历任何序列的项目，如一个列表或者一个字符串。" 
+title: "for循环"
+published: 2023-12-08
+description: "Python for 循环学习笔记。"
+image: ""
+tags: ["Python", "循环", "基础"]
+category: "Python"
+draft: false
 ---
 
 # for循环

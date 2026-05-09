@@ -1,11 +1,11 @@
 ---
-title: Python1.0-9-if语句
-date: 2023-11-30 10:26:06
-tags: "if语句"
-categories: "Python"
-photos: "https://tse2-mm.cn.bing.net/th/id/OIP-C._HTCz97VLVWPszION7tvuwHaDo?w=333&h=171&c=7&r=0&o=5&dpr=1.3&pid=1.7"
-cover: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
-excerpt: "Python 编程中 if 语句用于控制程序的执行！！" 
+title: "if语句"
+published: 2023-11-30
+description: "Python if 条件分支学习笔记。"
+image: ""
+tags: ["Python", "分支结构", "基础"]
+category: "Python"
+draft: false
 ---
 
 # 条件分支-if

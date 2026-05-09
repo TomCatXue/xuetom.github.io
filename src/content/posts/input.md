@@ -1,11 +1,11 @@
 ---
-title: Python1.0-7-input
-date: 2023-11-14 10:10:09
-tags: "input"
-categories: "Python"
-photos: "https://th.bing.com/th/id/R.e4e61a56e94a9bdf12ba96c097c72b04?rik=AQ1ovrx%2bB00bOg&riu=http%3a%2f%2fgildedwithin.com%2fwp-content%2fuploads%2f2017%2f07%2finput-output-e1499031373527.jpg&ehk=UXD85%2fupyved62vjGE5IoVlydurrStaT2IG2nsXTj5g%3d&risl=&pid=ImgRaw&r=0"
-cover: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
-excerpt: "input()函数包含四个方面：input()函数的使用/结果的赋值/数据类型/结果的强制转换。是实现人机互动沟通的关键，需要在终端出输入信息。"
+title: "input函数"
+published: 2023-11-14
+description: "Python input 函数学习笔记。"
+image: ""
+tags: ["Python", "输入", "基础"]
+category: "Python"
+draft: false
 ---
 
 # input()函数

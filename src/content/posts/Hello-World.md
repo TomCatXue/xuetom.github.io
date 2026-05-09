@@ -1,11 +1,11 @@
 ---
-title: Python1.0-6-Hello World
-date: 2023-10-6 11:14:09
-tags: "Hello World"
-categories: "Python"
-photos: "https://ts1.cn.mm.bing.net/th/id/R-C.ac7ffcb57ba67020274bfd9c20f079c1?rik=Cexhvch9ogXs1g&riu=http%3a%2f%2fshiftedstuff.ru%2fwp-content%2fuploads%2f2020%2f01%2fhelloworld-1536x1024.jpg&ehk=ULwPApvJAJInyQn%2faFcP5hTQeqRndj%2f7LHNiL3W0L3A%3d&risl=&pid=ImgRaw&r=0"
-cover: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
-excerpt: "'Hello,World!' 中文意思是“你好，世界”。因为 The C Programming Language 中使用它做为第一个演示程序，后来的程序员在学习编程或进行设备调试时延续了这一习惯。"
+title: "Hello World"
+published: 2023-10-06
+description: "Python Hello World 入门学习笔记。"
+image: ""
+tags: ["Python", "Hello World", "基础"]
+category: "Python"
+draft: false
 ---
 
 # Hello World

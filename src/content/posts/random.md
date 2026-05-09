@@ -1,11 +1,11 @@
 ---
-title: Python1.0-8-随机;时间
-date: 2023-11-24 16:42:06
-tags: "随机"
-categories: "Python"
-photos: "https://tse1-mm.cn.bing.net/th/id/OIP-C.PGODJ9xlsGDUvuRJa6pLXQHaEA?rs=1&pid=ImgDetMain"
-cover: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
-excerpt: "在python中用于生成随机数的模块是random,在使用前需要import。" 
+title: "random随机数和时间"
+published: 2023-11-24
+description: "Python random 随机数和时间模块学习笔记。"
+image: ""
+tags: ["Python", "随机数", "时间"]
+category: "Python"
+draft: false
 ---
 
 # random

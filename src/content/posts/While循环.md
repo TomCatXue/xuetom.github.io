@@ -1,11 +1,11 @@
 ---
-title: Python1.0-11-While循环
-date: 2023-12-22 14:55:30
-tags: "while循环"
-categories: "Python"
-photos: "https://pic.huke88.com/video/cover/2020-04-07/51668C5E-7242-9CD5-8A6A-7E305B079020.jpg!/fwfh/1840x1124/quality/80/unsharp/true/format/jpg"
-cover: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
-excerpt: "Python 编程中 while 语句用于循环执行程序，即在**某条件**下，循环执行某段程序，以处理需要重复处理的相同任务。" 
+title: "While循环"
+published: 2023-12-22
+description: "Python while 循环学习笔记。"
+image: ""
+tags: ["Python", "循环", "基础"]
+category: "Python"
+draft: false
 ---
 
 # While循环
