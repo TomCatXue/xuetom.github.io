@@ -1,3 +1,12 @@
+---
+title: "Greedy Algorithm"
+published: 2023-09-09
+description: "C++ study notes covering greedy algorithm."
+image: ""
+tags: ["C++", "Algorithm", "Greedy"]
+category: "C++"
+draft: false
+---
 
 # 一、基本概念
 
@@ -73,3 +82,12 @@ int main(){
 	}
 	cout << sum;
 }
+---
+title: "Greedy Algorithm"
+published: 2023-09-09
+description: "C++ study notes covering greedy algorithm."
+image: ""
+tags: ["C++", "Algorithm", "Greedy"]
+category: "C++"
+draft: false
+---

@@ -1,3 +1,12 @@
+---
+title: "Getting Started with C++"
+published: 2023-09-09
+description: "C++ study notes for getting started with C++ programming."
+image: ""
+tags: ["C++", "Basics", "Programming"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 
@@ -53,3 +62,12 @@ int main(){
   return 0;
 }
 ```
+---
+title: "Getting Started with C++"
+published: 2023-09-09
+description: "C++ study notes for getting started with C++ programming."
+image: ""
+tags: ["C++", "Basics", "Programming"]
+category: "C++"
+draft: false
+---

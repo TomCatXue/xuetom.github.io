@@ -1,3 +1,12 @@
+---
+title: "Backtracking Algorithm"
+published: 2023-09-09
+description: "C++ study notes covering backtracking algorithm."
+image: ""
+tags: ["C++", "Algorithm", "Backtracking"]
+category: "C++"
+draft: false
+---
 
 # 一、基本思想
 > 为了求得问题的解，先选择某一种可能情况向前探索，在探索过程中，一旦发现原来的选择错误，就退回一步重新选择，继续向前探索，如此反复进行，直至得到解或证明无解。
@@ -85,3 +94,12 @@ int main(){
 	return 0;
 }
 ```
+---
+title: "Backtracking Algorithm"
+published: 2023-09-09
+description: "C++ study notes covering backtracking algorithm."
+image: ""
+tags: ["C++", "Algorithm", "Backtracking"]
+category: "C++"
+draft: false
+---

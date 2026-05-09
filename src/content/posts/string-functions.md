@@ -1,3 +1,12 @@
+---
+title: "String Functions"
+published: 2023-09-09
+description: "C++ study notes covering string functions."
+image: ""
+tags: ["C++", "String", "Functions"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 
@@ -111,3 +120,12 @@ int main(){
     return 0;
 }
 ```
+---
+title: "String Functions"
+published: 2023-09-09
+description: "C++ study notes covering string functions."
+image: ""
+tags: ["C++", "String", "Functions"]
+category: "C++"
+draft: false
+---

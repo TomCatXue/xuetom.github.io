@@ -1,3 +1,12 @@
+---
+title: "Character Arrays"
+published: 2023-09-09
+description: "C++ study notes covering character arrays."
+image: ""
+tags: ["C++", "Arrays", "Strings"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 - 回顾递推算法
@@ -87,3 +96,12 @@ int main(){
     return 0;
 }
 ```
+---
+title: "Character Arrays"
+published: 2023-09-09
+description: "C++ study notes covering character arrays."
+image: ""
+tags: ["C++", "Arrays", "Strings"]
+category: "C++"
+draft: false
+---

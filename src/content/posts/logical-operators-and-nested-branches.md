@@ -1,3 +1,12 @@
+---
+title: "Logical Operators and Nested Branches"
+published: 2023-09-09
+description: "C++ study notes covering logical operators and nested branches."
+image: ""
+tags: ["C++", "Operators", "Branching"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 
@@ -81,3 +90,12 @@ int main(){
     return 0;
 }
 ```
+---
+title: "Logical Operators and Nested Branches"
+published: 2023-09-09
+description: "C++ study notes covering logical operators and nested branches."
+image: ""
+tags: ["C++", "Operators", "Branching"]
+category: "C++"
+draft: false
+---

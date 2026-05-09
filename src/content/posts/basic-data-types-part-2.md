@@ -1,3 +1,12 @@
+---
+title: "Basic Data Types Part 2"
+published: 2023-09-09
+description: "C++ study notes covering basic data types, part 2."
+image: ""
+tags: ["C++", "Data Types", "Basics"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 
@@ -90,3 +99,12 @@ int main()
     return 0;
 }
 ```
+---
+title: "Basic Data Types Part 2"
+published: 2023-09-09
+description: "C++ study notes covering basic data types, part 2."
+image: ""
+tags: ["C++", "Data Types", "Basics"]
+category: "C++"
+draft: false
+---

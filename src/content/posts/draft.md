@@ -1,6 +1,8 @@
 ---
 title: Draft Example
 published: 2022-07-01
+description: "A draft example post."
+image: ""
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: true

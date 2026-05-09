@@ -1,3 +1,12 @@
+---
+title: "Magical Variables"
+published: 2023-09-09
+description: "C++ study notes covering variables and basic input output."
+image: ""
+tags: ["C++", "Variables", "Basics"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 
@@ -93,3 +102,12 @@ int main(){
   return 0;
 }
 ```
+---
+title: "Magical Variables"
+published: 2023-09-09
+description: "C++ study notes covering variables and basic input output."
+image: ""
+tags: ["C++", "Variables", "Basics"]
+category: "C++"
+draft: false
+---

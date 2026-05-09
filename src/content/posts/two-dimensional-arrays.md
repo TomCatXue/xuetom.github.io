@@ -1,3 +1,12 @@
+---
+title: "Two Dimensional Arrays"
+published: 2023-09-09
+description: "C++ study notes covering two dimensional arrays."
+image: ""
+tags: ["C++", "Arrays", "Basics"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 
@@ -115,3 +124,12 @@ int main(){
     }
 }
 ```
+---
+title: "Two Dimensional Arrays"
+published: 2023-09-09
+description: "C++ study notes covering two dimensional arrays."
+image: ""
+tags: ["C++", "Arrays", "Basics"]
+category: "C++"
+draft: false
+---

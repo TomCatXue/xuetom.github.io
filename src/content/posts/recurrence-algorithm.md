@@ -1,3 +1,12 @@
+---
+title: "Recurrence Algorithm"
+published: 2023-09-09
+description: "C++ study notes covering recurrence algorithm."
+image: ""
+tags: ["C++", "Algorithm", "Recurrence"]
+category: "C++"
+draft: false
+---
 
 1️⃣ 知识目标🔦
 
@@ -81,3 +90,12 @@ int main(){
     return 0;
 }
 ```
+---
+title: "Recurrence Algorithm"
+published: 2023-09-09
+description: "C++ study notes covering recurrence algorithm."
+image: ""
+tags: ["C++", "Algorithm", "Recurrence"]
+category: "C++"
+draft: false
+---
