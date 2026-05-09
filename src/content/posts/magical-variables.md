@@ -1,9 +1,9 @@
 ---
-title: "Magical Variables"
+title: "神奇的变量"
 published: 2023-09-09
 description: "C++ study notes covering variables and basic input output."
 image: ""
-tags: ["C++", "Variables", "Basics"]
+tags: ["C++", "变量", "基础"]
 category: "C++"
 draft: false
 ---
@@ -102,12 +102,3 @@ int main(){
   return 0;
 }
 ```
----
-title: "Magical Variables"
-published: 2023-09-09
-description: "C++ study notes covering variables and basic input output."
-image: ""
-tags: ["C++", "Variables", "Basics"]
-category: "C++"
-draft: false
----

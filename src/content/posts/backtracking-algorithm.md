@@ -1,9 +1,9 @@
 ---
-title: "Backtracking Algorithm"
+title: "回溯算法"
 published: 2023-09-09
 description: "C++ study notes covering backtracking algorithm."
 image: ""
-tags: ["C++", "Algorithm", "Backtracking"]
+tags: ["C++", "算法", "回溯"]
 category: "C++"
 draft: false
 ---
@@ -94,12 +94,3 @@ int main(){
 	return 0;
 }
 ```
----
-title: "Backtracking Algorithm"
-published: 2023-09-09
-description: "C++ study notes covering backtracking algorithm."
-image: ""
-tags: ["C++", "Algorithm", "Backtracking"]
-category: "C++"
-draft: false
----

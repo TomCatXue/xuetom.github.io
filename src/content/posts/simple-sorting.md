@@ -1,9 +1,9 @@
 ---
-title: "Simple Sorting"
+title: "简单排序"
 published: 2023-09-09
 description: "C++ study notes covering simple sorting algorithms."
 image: ""
-tags: ["C++", "Algorithm", "Sorting"]
+tags: ["C++", "算法", "排序"]
 category: "C++"
 draft: false
 ---
@@ -82,12 +82,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "Simple Sorting"
-published: 2023-09-09
-description: "C++ study notes covering simple sorting algorithms."
-image: ""
-tags: ["C++", "Algorithm", "Sorting"]
-category: "C++"
-draft: false
----

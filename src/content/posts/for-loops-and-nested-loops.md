@@ -1,9 +1,9 @@
 ---
-title: "For Loops and Nested Loops"
+title: "for循环和循环嵌套"
 published: 2023-09-09
 description: "C++ study notes covering for loops and nested loops."
 image: ""
-tags: ["C++", "Loops", "Basics"]
+tags: ["C++", "循环", "基础"]
 category: "C++"
 draft: false
 ---
@@ -95,12 +95,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "For Loops and Nested Loops"
-published: 2023-09-09
-description: "C++ study notes covering for loops and nested loops."
-image: ""
-tags: ["C++", "Loops", "Basics"]
-category: "C++"
-draft: false
----

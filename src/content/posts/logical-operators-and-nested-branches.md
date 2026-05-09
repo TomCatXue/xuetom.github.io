@@ -1,9 +1,9 @@
 ---
-title: "Logical Operators and Nested Branches"
+title: "逻辑运算符和分支嵌套"
 published: 2023-09-09
 description: "C++ study notes covering logical operators and nested branches."
 image: ""
-tags: ["C++", "Operators", "Branching"]
+tags: ["C++", "运算符", "分支结构"]
 category: "C++"
 draft: false
 ---
@@ -90,12 +90,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "Logical Operators and Nested Branches"
-published: 2023-09-09
-description: "C++ study notes covering logical operators and nested branches."
-image: ""
-tags: ["C++", "Operators", "Branching"]
-category: "C++"
-draft: false
----

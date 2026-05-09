@@ -1,9 +1,9 @@
 ---
-title: "High Precision Addition and Subtraction"
+title: "高精度加减法"
 published: 2023-09-09
 description: "C++ study notes covering high precision addition and subtraction."
 image: ""
-tags: ["C++", "Algorithm", "High Precision"]
+tags: ["C++", "算法", "高精度"]
 category: "C++"
 draft: false
 ---
@@ -140,12 +140,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "High Precision Addition and Subtraction"
-published: 2023-09-09
-description: "C++ study notes covering high precision addition and subtraction."
-image: ""
-tags: ["C++", "Algorithm", "High Precision"]
-category: "C++"
-draft: false
----

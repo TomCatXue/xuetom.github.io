@@ -1,9 +1,9 @@
 ---
-title: "Recurrence Algorithm"
+title: "递推算法"
 published: 2023-09-09
 description: "C++ study notes covering recurrence algorithm."
 image: ""
-tags: ["C++", "Algorithm", "Recurrence"]
+tags: ["C++", "算法", "递推"]
 category: "C++"
 draft: false
 ---
@@ -90,12 +90,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "Recurrence Algorithm"
-published: 2023-09-09
-description: "C++ study notes covering recurrence algorithm."
-image: ""
-tags: ["C++", "Algorithm", "Recurrence"]
-category: "C++"
-draft: false
----

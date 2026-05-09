@@ -1,9 +1,9 @@
 ---
-title: "Switch Statement"
+title: "switch语句"
 published: 2023-09-09
 description: "C++ study notes covering switch statements."
 image: ""
-tags: ["C++", "Branching", "Basics"]
+tags: ["C++", "分支结构", "基础"]
 category: "C++"
 draft: false
 ---
@@ -103,12 +103,3 @@ int main() {
      return 0;
 }
 ```
----
-title: "Switch Statement"
-published: 2023-09-09
-description: "C++ study notes covering switch statements."
-image: ""
-tags: ["C++", "Branching", "Basics"]
-category: "C++"
-draft: false
----

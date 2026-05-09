@@ -1,9 +1,9 @@
 ---
-title: "Two Dimensional Arrays"
+title: "二维数组"
 published: 2023-09-09
 description: "C++ study notes covering two dimensional arrays."
 image: ""
-tags: ["C++", "Arrays", "Basics"]
+tags: ["C++", "数组", "基础"]
 category: "C++"
 draft: false
 ---
@@ -124,12 +124,3 @@ int main(){
     }
 }
 ```
----
-title: "Two Dimensional Arrays"
-published: 2023-09-09
-description: "C++ study notes covering two dimensional arrays."
-image: ""
-tags: ["C++", "Arrays", "Basics"]
-category: "C++"
-draft: false
----

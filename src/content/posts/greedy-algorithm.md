@@ -1,9 +1,9 @@
 ---
-title: "Greedy Algorithm"
+title: "贪心算法"
 published: 2023-09-09
 description: "C++ study notes covering greedy algorithm."
 image: ""
-tags: ["C++", "Algorithm", "Greedy"]
+tags: ["C++", "算法", "贪心"]
 category: "C++"
 draft: false
 ---
@@ -82,12 +82,3 @@ int main(){
 	}
 	cout << sum;
 }
----
-title: "Greedy Algorithm"
-published: 2023-09-09
-description: "C++ study notes covering greedy algorithm."
-image: ""
-tags: ["C++", "Algorithm", "Greedy"]
-category: "C++"
-draft: false
----

@@ -1,9 +1,9 @@
 ---
-title: "String Functions"
+title: "字符串函数"
 published: 2023-09-09
 description: "C++ study notes covering string functions."
 image: ""
-tags: ["C++", "String", "Functions"]
+tags: ["C++", "字符串", "函数"]
 category: "C++"
 draft: false
 ---
@@ -120,12 +120,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "String Functions"
-published: 2023-09-09
-description: "C++ study notes covering string functions."
-image: ""
-tags: ["C++", "String", "Functions"]
-category: "C++"
-draft: false
----

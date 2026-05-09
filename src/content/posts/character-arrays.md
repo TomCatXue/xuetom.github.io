@@ -1,9 +1,9 @@
 ---
-title: "Character Arrays"
+title: "字符数组"
 published: 2023-09-09
 description: "C++ study notes covering character arrays."
 image: ""
-tags: ["C++", "Arrays", "Strings"]
+tags: ["C++", "数组", "字符串"]
 category: "C++"
 draft: false
 ---
@@ -96,12 +96,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "Character Arrays"
-published: 2023-09-09
-description: "C++ study notes covering character arrays."
-image: ""
-tags: ["C++", "Arrays", "Strings"]
-category: "C++"
-draft: false
----

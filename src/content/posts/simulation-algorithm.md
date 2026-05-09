@@ -1,9 +1,9 @@
 ---
-title: "Simulation Algorithm"
+title: "模拟算法"
 published: 2023-09-09
 description: "C++ study notes covering simulation algorithm."
 image: ""
-tags: ["C++", "Algorithm", "Simulation"]
+tags: ["C++", "算法", "模拟"]
 category: "C++"
 draft: false
 ---
@@ -125,12 +125,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "Simulation Algorithm"
-published: 2023-09-09
-description: "C++ study notes covering simulation algorithm."
-image: ""
-tags: ["C++", "Algorithm", "Simulation"]
-category: "C++"
-draft: false
----

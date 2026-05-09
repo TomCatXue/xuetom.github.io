@@ -1,9 +1,9 @@
 ---
-title: "Basic Data Types Part 1"
+title: "基本数据类型 上"
 published: 2023-09-09
 description: "C++ study notes covering basic data types, part 1."
 image: ""
-tags: ["C++", "Data Types", "Basics"]
+tags: ["C++", "数据类型", "基础"]
 category: "C++"
 draft: false
 ---
@@ -92,12 +92,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "Basic Data Types Part 1"
-published: 2023-09-09
-description: "C++ study notes covering basic data types, part 1."
-image: ""
-tags: ["C++", "Data Types", "Basics"]
-category: "C++"
-draft: false
----

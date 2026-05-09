@@ -1,9 +1,9 @@
 ---
-title: "High Precision Multiplication and Division"
+title: "高精度乘除法"
 published: 2023-09-09
 description: "C++ study notes covering high precision multiplication and division."
 image: ""
-tags: ["C++", "Algorithm", "High Precision"]
+tags: ["C++", "算法", "高精度"]
 category: "C++"
 draft: false
 ---
@@ -197,12 +197,3 @@ int main() {
     return 0;
 }
 ```
----
-title: "High Precision Multiplication and Division"
-published: 2023-09-09
-description: "C++ study notes covering high precision multiplication and division."
-image: ""
-tags: ["C++", "Algorithm", "High Precision"]
-category: "C++"
-draft: false
----

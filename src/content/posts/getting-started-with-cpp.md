@@ -1,9 +1,9 @@
 ---
-title: "Getting Started with C++"
+title: "初识C++"
 published: 2023-09-09
 description: "C++ study notes for getting started with C++ programming."
 image: ""
-tags: ["C++", "Basics", "Programming"]
+tags: ["C++", "基础", "编程入门"]
 category: "C++"
 draft: false
 ---
@@ -62,12 +62,3 @@ int main(){
   return 0;
 }
 ```
----
-title: "Getting Started with C++"
-published: 2023-09-09
-description: "C++ study notes for getting started with C++ programming."
-image: ""
-tags: ["C++", "Basics", "Programming"]
-category: "C++"
-draft: false
----

@@ -1,9 +1,9 @@
 ---
-title: "One Dimensional Arrays"
+title: "一维数组"
 published: 2023-09-09
 description: "C++ study notes covering one dimensional arrays."
 image: ""
-tags: ["C++", "Arrays", "Basics"]
+tags: ["C++", "数组", "基础"]
 category: "C++"
 draft: false
 ---
@@ -100,12 +100,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "One Dimensional Arrays"
-published: 2023-09-09
-description: "C++ study notes covering one dimensional arrays."
-image: ""
-tags: ["C++", "Arrays", "Basics"]
-category: "C++"
-draft: false
----

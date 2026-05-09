@@ -1,9 +1,9 @@
 ---
-title: "Branch Structure"
+title: "分支结构"
 published: 2023-09-09
 description: "C++ study notes covering branch structures."
 image: ""
-tags: ["C++", "Branching", "Basics"]
+tags: ["C++", "分支结构", "基础"]
 category: "C++"
 draft: false
 ---
@@ -122,12 +122,3 @@ int main(){
     return 0;
 }
 ```
----
-title: "Branch Structure"
-published: 2023-09-09
-description: "C++ study notes covering branch structures."
-image: ""
-tags: ["C++", "Branching", "Basics"]
-category: "C++"
-draft: false
----
