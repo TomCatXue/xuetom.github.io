@@ -1,8 +1,8 @@
 ---
 title: "for循环"
 published: 2023-12-08
-description: "Python for 循环学习笔记。"
-image: ""
+description: "Python for 循环可以遍历列表、字符串等序列中的元素。"
+image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
 tags: ["Python", "循环", "基础"]
 category: "Python"
 draft: false

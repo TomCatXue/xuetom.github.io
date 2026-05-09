@@ -1,8 +1,8 @@
 ---
 title: "While循环"
 published: 2023-12-22
-description: "Python while 循环学习笔记。"
-image: ""
+description: "Python while 语句用于在条件满足时循环执行代码。"
+image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
 tags: ["Python", "循环", "基础"]
 category: "Python"
 draft: false

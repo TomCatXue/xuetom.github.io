@@ -1,8 +1,8 @@
 ---
 title: "Hello World"
 published: 2023-10-06
-description: "Python Hello World 入门学习笔记。"
-image: ""
+description: "Hello World 是学习编程时常用的第一个示例程序。"
+image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
 tags: ["Python", "Hello World", "基础"]
 category: "Python"
 draft: false

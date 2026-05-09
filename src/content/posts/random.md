@@ -1,8 +1,8 @@
 ---
 title: "random随机数和时间"
 published: 2023-11-24
-description: "Python random 随机数和时间模块学习笔记。"
-image: ""
+description: "Python 中可以使用 random 模块生成随机数。"
+image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
 tags: ["Python", "随机数", "时间"]
 category: "Python"
 draft: false

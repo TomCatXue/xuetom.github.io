@@ -1,8 +1,8 @@
 ---
 title: "input函数"
 published: 2023-11-14
-description: "Python input 函数学习笔记。"
-image: ""
+description: "input() 函数用于接收用户输入，是实现人机交互的基础。"
+image: "https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"
 tags: ["Python", "输入", "基础"]
 category: "Python"
 draft: false
