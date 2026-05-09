@@ -1,9 +1,9 @@
 ---
-title: Draft Example
+title: "草稿示例"
 published: 2022-07-01
 description: "A draft example post."
 image: ""
-tags: [Markdown, Blogging, Demo]
+tags: ["Markdown", "博客", "示例"]
 category: Examples
 draft: true
 ---
@@ -16,9 +16,9 @@ When the article is ready for publication, you can update the "draft" field to "
 
 ```markdown
 ---
-title: Draft Example
+title: "草稿示例"
 published: 2024-01-11T04:40:26.381Z
-tags: [Markdown, Blogging, Demo]
+tags: ["Markdown", "博客", "示例"]
 category: Examples
 draft: false
 ---
